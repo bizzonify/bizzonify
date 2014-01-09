@@ -5782,7 +5782,7 @@ section#header {
 /* ========== PROMO ========== */
 #brn-promo {
   margin-top: 0;
-  background-color: rgba(194, 235, 64, 0.84);
+   background-color: #CFECFF;
 }
 #brn-promo h1 {
   margin-top: 96px;
@@ -6224,5 +6224,5 @@ a:hover,
 }
 
 body{
-    background-color: #BDCFFD;
+    background-color: #fff;
 }
