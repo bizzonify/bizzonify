@@ -6231,8 +6231,11 @@ body{
 .minh{
   min-height: 510px;
 }
-@media (max-width: 768px){
+@media (max-width: 900px){
   #brn-promo{
-   background-image: repeating-linear-gradient(45deg, rgb(172, 228, 88) 0px, rgb(58, 175, 72) 25px, transparent 25px, transparent 50px, gray 50px);
-  }
+   background-image: url(../img/bg2.png);
+  background-size: 100%; 
+  background-repeat: repeat;
+  background-position: center;
+}
 }
